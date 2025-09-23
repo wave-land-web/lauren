@@ -9,8 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.1.9",
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^5.13.10",
     "astro-icon": "^1.1.5",
     "autoprefixer": "^10.4.20"
   }
